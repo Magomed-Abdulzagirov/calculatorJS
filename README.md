@@ -36,6 +36,12 @@ JavaScript (ES6)
 Арифметические операции
 Проценты
 Сброс
+
+**Попробовать онлайн:**  
+[https://magomed-abdulzagirov.github.io/calculatorJS/](https://magomed-abdulzagirov.github.io/calculatorJS/)
+
+
+Откройте сайт и начните пользоваться калькулятором прямо сейчас!
 Смена знака числа
 
 
