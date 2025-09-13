@@ -1,6 +1,5 @@
 # Калькулятор
 
-![calculator screenshot](https://user-images.githubusercontent.com/your-image.png) 
 
 Простой и стильный калькулятор на HTML, CSS и JavaScript.
 
